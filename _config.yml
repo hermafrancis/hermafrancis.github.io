@@ -7,14 +7,14 @@ title: Herma Cornibert-Francis
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Herma Cornibert-Francis
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Customer Relationship Management (CRM) Consultant 
-typing_text: Jekyll Theme
+typing_text: Customer Relationship Management (CRM) Consultant
 # email: Your E-Mail address for the email button.
 email: hermafrancis2@gmail.com
 # For every social button you want to display, set your username or userid
@@ -22,9 +22,9 @@ email: hermafrancis2@gmail.com
 # > twitter_username:
 github_username: hermafrancis
 trailblazer_username: hermacornibert
-dev_username: exampleUser
+dev_username: ""
 linkedin_username: herma-cornibert-francis
-twitter_username: exampleUser
+twitter_username: ""
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -81,12 +81,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: You can reach me with the info below.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: hermafrancis/hermafrancis.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
