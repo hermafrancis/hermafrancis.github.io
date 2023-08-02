@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am an experienced CRM consultant with over 15 years in financial services. 
+about_me_description: I am an experienced CRM consultant with over 15 years in financial services leading teams on business process transformations that resulted in more than 200% growth in clients won and 300% in revenue. Certified Salesforce Administrator and Business Analyst helping clients scale and grow their business operations by making efficient use of their Salesforce implementations.
 
 # SKILLS SECTION
 # show_skills_card:
